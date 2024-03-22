@@ -6,6 +6,3 @@ files:
 
 file_exists_behavior: OVERWRITE
 
-Hooks:
-  - BeforeInstall: scripts/start_apps.sh
-  - AfterInstall: scripts/stop_apps.sh
