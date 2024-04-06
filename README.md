@@ -1,5 +1,5 @@
 # cs415_website Install Notes
-
+Test
 ## EC2 Install Commands
 ## Ubuntu
 - Allow Inbound Rules
